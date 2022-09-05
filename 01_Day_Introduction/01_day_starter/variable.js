@@ -1,9 +1,9 @@
 // Declaring different variables of different data types
 
-let firstName = 'Asabeneh'    // first name of a person
-let lastName = 'Yetayeh'      // last name of a person
-let country = 'Finland'       // country
-let city = 'Helsinki'         // capital city
+let firstName = 'Ademola'    // first name of a person
+let lastName = 'Adeleke'      // last name of a person
+let country = 'United arab emirate'       // country
+let city = 'Dubai'         // capital city
 let age = 100                 // age in years
 let isMarried = true
 
@@ -15,6 +15,6 @@ const PI = 3.14              // geometrical constant
 
 // Variables can also be declaring in one line separated by comma
 
-let name = 'Asabeneh',     //name of a person
-  job = 'teacher',
-  live = 'Finland'
+let name = 'Ademoa',     //name of a person
+  job = 'QHSE',
+  live = 'Dubai'
